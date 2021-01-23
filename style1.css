@@ -1,0 +1,287 @@
+
+    .page-headline,
+    .blog-headline {
+        color: #ffffff;
+    }
+
+    .vc_custom_heading,
+    .effect-artist-title {
+        color: #ffffff;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p,
+    .color-scheme-1 h1,
+    .color-scheme-1 h2,
+    .color-scheme-1 h3,
+    .color-scheme-1 h4,
+    .color-scheme-1 h5,
+    .color-scheme-1 h6,
+    .color-scheme-1 p,
+    .surge-light h1,
+    .surge-light h2,
+    .surge-light h3,
+    .surge-light h4,
+    .surge-light h5,
+    .surge-light h6,
+    .surge-light p {
+        color: #ffffff;
+    }
+
+    .dotted-bg-pattern {
+        background: linear-gradient(90deg, #071324 38px, rgba(255, 255, 255, 0) 1%) 50%, linear-gradient(#071324 38px, rgba(255, 255, 255, 0) 1%) 50%, rgba(10, 35, 62, 0.97);
+        background-size: 40px 40px;
+    }
+
+    .surge-light .dotted-bg-pattern {
+        background: linear-gradient(90deg, #071324 38px, rgba(255, 255, 255, 0) 1%) 50%, linear-gradient(#071324 38px, rgba(255, 255, 255, 0) 1%) 50%, rgba(0, 0, 0, .16);
+        background-size: 40px 40px;
+    }
+
+    .preloader,
+    body,
+    html body.custom-background,
+    .color-scheme-1 .preloader,
+    body.color-scheme-1,
+    html body.color-scheme-1.custom-background,
+    .surge-light .preloader,
+    body.surge-light,
+    html body.surge-light.custom-background {
+        background-color: #071324;
+        color: #ffffff;
+    }
+
+    .spinner:before,
+    .color-scheme-1 .spinner:before,
+    .surge-light .spinner:before {
+        border: 2px solid #cb3742;
+        border-top-color: #071324;
+    }
+
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    .surge-light h1,
+    .surge-light h2,
+    .surge-light h3,
+    .surge-light h4,
+    .surge-light h5,
+    .surge-light h6 {
+        color: #ffffff;
+    }
+
+    a:link,
+    a:visited {
+        color: #ffffff;
+    }
+
+    button,
+    input[type='button'],
+    input[type='reset'],
+    input[type='submit'],
+    body.woocommerce div.product form.cart .button,
+    body.color-scheme-1.woocommerce div.product form.cart .button,
+    .effect-artist-title h2,
+    .scrollup,
+    .album-cover-single h2,
+    .music-side-bar .bar-single-text,
+    .album-cover-title h2,
+    .music-side-bar .bar-text-big:after,
+    .schedule-image-box h3,
+    .wpcf7 input[type=submit],
+    body.woocommerce a.button.add_to_cart_button.product_type_simple:after,
+    body .woocommerce a.button.add_to_cart_button.product_type_simple:after,
+    body .woocommerce #respond input#submit.alt,
+    body .woocommerce a.button.alt,
+    body .woocommerce button.button.alt,
+    body .woocommerce input.button.alt .effect-artist-title h2,
+    .schedule-table .schedule-time,
+    .home-head-subtag .home-about h2,
+    .surge-light .schedule-image-box h3,
+    body .mini-cart .cart-button .mini-cart-icon:after,
+    .single-post .comment .comment-reply-link,
+    .page .comment .comment-reply-link,
+    .color-scheme-1 .menu-toogle-wrapper.close span,
+    .color-scheme-2 .menu-toogle-wrapper.close span,
+    body .radio-post-title h2,
+    .mini-cart .cart-button .mini-cart-icon:after {
+        background-color: #cb3742;
+
+    }
+
+    body .woocommerce-info {
+        border-top: 1px solid #cb3742;
+    }
+
+    .schedule-head {
+        border-bottom: 1px solid #cb3742;
+    }
+
+    .artist-head-title {
+        border-bottom: 2px solid #cb3742;
+    }
+
+    .surge-light .schedule-table .schedule-time {
+        background: #cb3742;
+        border-left: 5px solid #cb3742;
+
+    }
+
+    .music-box-play-list li.playing a,
+    body.woocommerce ul.products li.product .price,
+    body.color-scheme-1 .woocommerce ul.products li.product .price,
+    body.woocommerce div.product p.price,
+    body.color-scheme-1.woocommerce div.product p.price,
+    body.woocommerce div.product span.price,
+    body.color-scheme-1.woocommerce div.product span.price,
+    .color-scheme-1 .full-page-menu #primary-menu .dropdown-toggle,
+    .color-scheme-2 .full-page-menu #primary-menu .dropdown-toggle,
+    .projnav li h2,
+    blockquote.quetext::after,
+    .music-side-bar .bar-text-big,
+    .color-scheme-1 .menu-list li a:link,
+    .color-scheme-1 .menu-list li a:active,
+    .color-scheme-1 .menu-list li a:visited,
+    .color-scheme-2 .menu-list li a:link,
+    .color-scheme-2 .menu-list li a:active,
+    .color-scheme-2 .menu-list li a:visited,
+    .projnav li a {
+        color: #cb3742;
+    }
+
+    .sidebar .widget-title,
+    .wpb_widgetised_column .widget-title {
+        border-left: 5px solid #cb3742;
+    }
+
+    blockquote.side-line {
+        border-left: 4px solid #cb3742;
+    }
+
+    .surge-dark .entry-meta {
+        border-left: 4px solid #cb3742;
+    }
+
+    .audiojs .pause:hover:before,
+    .audiojs .play:hover:before {
+        color: #cb3742;
+        text-shadow: 0 -1px 0 #000, 0 0 30px #cb3742;
+        ,
+        0 0 50px #cb3742;
+    }
+
+    .home-red-button .vc_btn3.vc_btn3-color-grey.vc_btn3-style-modern {
+        background-color: #cb3742;
+        border-color: #cb3742;
+    }
+
+    .schedule-table .schedule-desc,
+    .schedule-table .schedule-desc,
+    .fs-ask-us .ask-us-content h2 {
+        background-color: #cb3742;
+        box-shadow: 0.45em 0 0 #cb3742, -0.45em 0 0 #cb3742;
+
+    }
+
+    select,
+    textarea,
+    input[type='text'],
+    input[type='password'],
+    input[type='datetime'],
+    input[type='datetime-local'],
+    input[type='date'],
+    input[type='month'],
+    input[type='time'],
+    input[type='week'],
+    input[type='number'],
+    input[type='email'],
+    input[type='url'],
+    input[type='tel'],
+    input[type='color'] .comment-form input[type='text'],
+    #add_payment_method #payment,
+    .woocommerce-cart #payment,
+    .woocommerce-checkout #payment,
+    .woocommerce table.shop_table,
+    .single-post .entry-footer,
+    .single-post .comment>div,
+    .page .comment>div,
+    footer.site-footer,
+    .color-scheme-1 footer.site-footer,
+    .surge-light footer.site-footer {
+        background: #08182b;
+    }
+
+    .site-footer .site-info {
+        color: #ffffff;
+    }
+
+    .navigation .sub-menu a,
+    .download-btn .vc_btn3 {
+        font-family: Montserrat, sans-serif;
+    }
+
+    .copyright,
+    .header-tilte {
+        background-color: #08182b;
+    }
+
+    @media only screen and (max-width: 768px) {
+        h1 {
+            font-size: 28.8px;
+        }
+
+        h2 {
+            font-size: 25.2px;
+        }
+
+        .single-page-header {
+            font-size: 42px;
+        }
+
+        h3 {
+            font-size: 16.2px;
+        }
+
+        h4 {
+            font-size: 14.4px;
+        }
+
+        h5 {
+            font-size: 13.5px;
+        }
+    }
+
+    @media only screen and (max-width: 480px) {
+        h1 {
+            font-size: 25.6px;
+        }
+
+        h2 {
+            font-size: 22.4px;
+        }
+
+        .single-page-header {
+            font-size: 33.6px;
+        }
+
+        h3 {
+            font-size: 14.4px;
+        }
+
+        h4 {
+            font-size: 12.8px;
+        }
+
+        h5 {
+            font-size: 12px;
+        }
+    }
